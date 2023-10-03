@@ -1,0 +1,60 @@
+main {
+  padding-top: 100px; /* Adjust this value based on your preference */
+}
+
+header {
+  text-align: left;
+  padding-top: 60px;
+  padding: 10px;
+}
+
+.navbar-brand img {
+  height: 40px; /* Adjust as needed */
+  width: auto; /* Keeps the image aspect ratio */
+  margin-top: -5px; /* Adjust vertical alignment if needed */
+}
+
+.navbar-text {
+  font-size: 24px; /* Adjust as needed */
+  font-weight: bold;
+  color: azure;
+}
+
+body {
+  padding-top: 70px; /* Adjust based on the height of your navbar */
+}
+
+.navbar {
+  padding: 0.5rem 1rem; /* Adjust these values as needed */
+}
+
+.orange-text {
+  color: orange;
+}
+
+.first-row {
+  margin-top: 10px; /* Adjust this value based on your preference */
+}
+
+.second-row {
+  margin-top: 20px;
+}
+
+.third-row {
+  margin-top: 20px;
+}
+
+.custom-blue {
+  background-color: #007bff !important;
+}
+
+.grey-background {
+  background-color: #f5f5f582; /* This is a light grey color. Adjust as needed. */
+  padding: 15px; /* Add some padding for spacing */
+  border-radius: 0 0 5px 5px; /* Rounded corners at the bottom */
+}
+
+.card-title,
+.price {
+  font-weight: bold;
+}
